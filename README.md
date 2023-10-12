@@ -2,7 +2,7 @@
 
 run main.py
 
-enter your choice according to your choice  
+enter according to your choice  
 ```console
 Choose an option:
 1. Assign Parking Space
